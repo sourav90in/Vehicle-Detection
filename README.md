@@ -233,7 +233,7 @@ b) Second level of Heat-Map aggregation is for detected windows across the last 
 
 
 ### Here the resulting bounding boxes which are drawn onto these 6 frames:
-![Video Frame 296][image31]
+![Video Frame 296][image32]
 ![Video Frame 297][image33]
 ![Video Frame 298][image34]
 ![Video Frame 299][image35]
