@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./examples/Car.png
 [image2]: ./examples/NotCar.png
-[image3]: ./examples/test1.png
+[image3]: ./examples/test1.jpg
 [image4]: ./examples/CH_Ytest1.png
 [image5]: ./examples/CH_Crtest1.png
 [image6]: ./examples/CH_Cbtest1.png
@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 [image9]: ./hog_img/CH_Crtest4.png
 [image10]: ./hog_img/CH_Cbtest4.png
 [image11]: ./scaled_wdw_img/test4.jpg
-[image12]: ./labels/test4.jpg
+[image12]: ./labels/test4.png
 [image13]: ./final_boxed_img/test4.jpg
 
 [image14]: ./examples/labels_vid/296.png
@@ -112,10 +112,19 @@ Also accuracy score on the test-set obtained from the training and test-set spli
 
 Some of the results obtained for the test1.png file are as follows:
 
+Test-Image:
 ![Test-Image][image3]
+
+HOG Y-Channel features for ROI:
 ![HOG Y Channel][image4]
+
+HOG Cr-Channel features for ROI:
 ![HOG Cr Channel][image5]
+
+HOG Cb-Channel features for ROI:
 ![HOG Cb Channel][image6]
+
+All Detected windows across multiple scales:
 ![Detected Windows][image7]
 
 #### 3. Describe how (and identify where in your code) you trained a classifier using your selected HOG features (and color features if you used them).
