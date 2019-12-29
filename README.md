@@ -1,5 +1,4 @@
 ## Writeup:
----
 
 **Vehicle Detection Project**
 
